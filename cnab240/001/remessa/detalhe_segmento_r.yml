@@ -1,0 +1,31 @@
+codigo_desconto_2:
+  pos: [18, 18]
+  picture: '9(1)'
+  default: 0
+
+data_desconto_2:
+  pos: [19, 26]
+  picture: '9(8)'
+  date_format: '%d%m%Y'
+  default: 0
+
+valor_desconto_2:
+  pos: [27, 41]
+  picture: '9(13)V9(2)'
+  default: 0
+
+codigo_desconto_3:
+  pos: [42, 42]
+  picture: '9(1)'
+  default: 0
+
+data_desconto_3:
+  pos: [43, 50]
+  picture: '9(8)'
+  date_format: '%d%m%Y'
+  default: 0
+
+valor_desconto_3:
+  pos: [51, 65]
+  picture: '9(13)V9(2)'
+  default: 0
